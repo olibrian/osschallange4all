@@ -1,2 +1,2 @@
-# osschallange4all
-How to contribute to open source project as a non-technical geek
+# Open Source Challenge for non-technical geeks
+I wrote a blog post about how to contribute to open source project. Please feel free to make a pull request for my post.
